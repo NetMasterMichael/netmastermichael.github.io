@@ -24,7 +24,7 @@ pagination.pagerSize = 5
   fullWidthTheme = false
 
   # center theme with default width
-  centerTheme = false
+  centerTheme = true
 
   # if your resource directory contains an image called `cover.(jpg|png|webp)`,
   # then the file will be used as a cover automatically.
@@ -43,11 +43,11 @@ pagination.pagerSize = 5
 
   # whether to show a table of contents
   # can be overridden in a page's front-matter
-  # Toc = false # default
+  #Toc = true
 
   # set title for the table of contents
   # can be overridden in a page's front-matter
-  # TocTitle = "Table of Contents" # default
+  #TocTitle = "Posts"
 
   # Set date/time format for posts
   # This will impact the date/time displayed on
@@ -78,9 +78,9 @@ pagination.pagerSize = 5
 
     [languages.en.params]
       subtitle = "A simple, retro theme for Hugo"
-      owner = ""
+      owner = "Michael Goodwin NetMasterMichael"
       keywords = ""
-      copyright = ""
+      copyright = "2025"
       menuMore = "Show more"
       readMore = "Read more"
       readOtherPosts = "Read other posts"
@@ -92,7 +92,7 @@ pagination.pagerSize = 5
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "Terminal"
+        logoText = "user@netmastermichael.com:~$"
         logoHomeLink = "/"
 
       [languages.en.menu]
