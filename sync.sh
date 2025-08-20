@@ -1,2 +1,3 @@
 #!/bin/bash
-rsync -av --delete "../blog/posts" "./content" 
+python3 transfer_images.py
+rsync -av --delete "../blog/posts" "./content"
