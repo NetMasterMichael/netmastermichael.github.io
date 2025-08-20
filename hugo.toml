@@ -109,7 +109,7 @@ pagination.pagerSize = 5
 # hugo.toml
 [module]
   # Map the upstream module path to your local folder
-  replacements = "github.com/panr/hugo-theme-terminal/v4 -> ./themes/terminal"
+  replacements = "github.com/panr/hugo-theme-terminal/v4 -> terminal"
 
 [[module.imports]]
   # Keep referencing the *upstream* path…
