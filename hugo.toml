@@ -104,3 +104,14 @@ pagination.pagerSize = 5
           identifier = "showcase"
           name = "Showcase"
           url = "/showcase"
+
+
+# hugo.toml
+[module]
+  # Map the upstream module path to your local folder
+  replacements = "github.com/panr/hugo-theme-terminal/v4 -> ./themes/terminal"
+
+[[module.imports]]
+  # Keep referencing the *upstream* path…
+  path = "github.com/panr/hugo-theme-terminal/v4"
+
