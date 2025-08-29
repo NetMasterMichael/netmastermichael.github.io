@@ -1,2 +1,2 @@
 #!/bin/bash
-hugo server -t terminal
+hugo server --disableFastRender -t terminal
