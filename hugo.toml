@@ -104,7 +104,7 @@ pagination.pagerSize = 5
         [[languages.en.menu.main]]
           identifier = "projects"
           name = "Projects"
-          url = "/projects"
+          url = "/projects/list"
           weight = 2
         [[languages.en.menu.main]]
           identifier = "linkedin"
