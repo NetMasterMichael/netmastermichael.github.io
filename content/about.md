@@ -33,7 +33,7 @@ Outside of all things professional, I enjoy cars, aviation, listening to music a
 ## Year in Industry - Digital Services
 #### National Highways, Guildford  |  Jun 2025 to Present, Full Time
 • Created security awareness communications for all staff and suppliers  
-• Rotating around different teams in security, have just recently rotated into Identity  
+• Rotating around different teams in security, have just recently rotated into the Identity and Access Management (IAM) team  
 • Still a relatively new position, will update with more information in the future
 
 ![Royal Holloway, University of London](/images/royal_holloway_university_of_london_logo.jpeg)
@@ -49,6 +49,9 @@ Outside of all things professional, I enjoy cars, aviation, listening to music a
 ## East Surrey College, Redhill
 #### IT Support Assistant  |  Aug 2022 to Present, Flexible
 Continuing my duties from my completed apprenticeship, now working flexibly while completing my full-time education at university
+
+|
+
 #### IT Advanced Apprentice  |  Aug 2020 to Jun 2022, Full-Time
 • Fulfil requests from staff on the IT Helpdesk, meeting SLAs and providing a positive user experience  
 • Answer incoming phone calls from staff members and students, to provide remote support over the phone  
