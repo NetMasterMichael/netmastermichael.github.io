@@ -74,7 +74,7 @@ pagination.pagerSize = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "user@nmm.com:~$"
 
     [languages.en.params]
       subtitle = "A simple, retro theme for Hugo"
@@ -105,13 +105,11 @@ pagination.pagerSize = 5
           name = "Showcase"
           url = "/showcase"
 
-
-# hugo.toml
 [module]
   # Map the upstream module path to your local folder
   replacements = "github.com/panr/hugo-theme-terminal/v4 -> terminal"
 
-[[module.imports]]
-  # Keep referencing the *upstream* path…
-  path = "github.com/panr/hugo-theme-terminal/v4"
+  [[module.imports]]
+    # Keep referencing the *upstream* path…
+    path = "github.com/panr/hugo-theme-terminal/v4"
 
